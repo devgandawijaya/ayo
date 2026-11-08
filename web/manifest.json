@@ -1,0 +1,11 @@
+{
+    "name": "PT. PKP - Ayo Employee Portal",
+    "short_name": "Ayo PKP",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0F4C81",
+    "theme_color": "#0F4C81",
+    "description": "Aplikasi Employee Portal PT. PKP",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
